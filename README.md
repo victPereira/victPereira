@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @victPereira
-- 👀 I’m interested in Development Flutter / Dart
-- 🌱 I’m currently learning full stack dart
+ Hi there 👋
+* 👂 My name is Victor V. Pereira
+* 🔭 I’m currently working on Management of virtual machines - M2M 
+* 🌱 I’m currently learning Full stack Dart / Flutter
+* 🤔 I’m looking for help with Dart/Flutter
+* 📫 How to reach me: linkedin.com/in/victor-pereira-303273235/ 
+* ❤️ I love Sports
 
-<!---
-victPereira/victPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
