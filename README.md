@@ -1,13 +1,11 @@
- Hi there 👋
-* 👂 My name is Victor V. Pereira
-* 🔭 I’m currently working on Management of virtual machines - M2M 
-* 🌱 I’m currently learning Full stack Dart / Flutter
-* 🤔 I’m looking for help with Dart/Flutter
-* 📫 How to reach me: linkedin.com/in/victor-pereira-303273235/ 
-* ❤️ I love Sports
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-<div>
-<a href="https://github.com/victPereira>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### Hi 👋
+I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
+- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
+- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
+- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
