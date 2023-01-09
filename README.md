@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Courses, books and documentation**
 
-- 👨‍💻 All of my projects are available at [://github.com/victPereira?tab=repositories](://github.com/victPereira?tab=repositories)
+- 👨‍💻 All of my projects are available at [://github.com/victPereira?tab=repositories]
 
 - 📝 I regularly write articles in my book
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vic.torpereira@hotmail.com**
 
-- 📄 Know about my experiences [I'm looking for an opportunity to demonstrate my expertise in mobile development](I'm looking for an opportunity to demonstrate my expertise in mobile development)
+- 📄 I'm looking for an opportunity to demonstrate my expertise in mobile development
 
 - ⚡ Fun fact **Sports**
 
