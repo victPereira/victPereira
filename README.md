@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Courses, books and documentation**
 
-- 👨‍💻 All of my projects are available at [://github.com/victPereira?tab=repositories]
-
 - 📝 I regularly write articles in my book
 
 - 💬 Ask me about **Flutter**
