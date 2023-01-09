@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor V. Pereira</h1>
 <h3 align="center">Dart & Flutter Development</h3>
 
-- 🔭 I’m currently working on **Winprovit**
+- 🔭 I’m currently working on **Support Specialist**
 
 - 🌱 I’m currently learning **Dart / Flutter**
 
