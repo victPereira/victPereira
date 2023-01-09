@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [://github.com/victPereira?tab=repositories](://github.com/victPereira?tab=repositories)
 
-- 📝 I regularly write articles on [my book](my book)
+- 📝 I regularly write articles on my book
 
 - 💬 Ask me about **Flutter**
 
