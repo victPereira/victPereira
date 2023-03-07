@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Support Specialist**
 
-- 🌱 I’m currently learning **Dart / Flutter**
+- 🌱 I’m currently learning **Dart / Flutter** / SQL
 
 - 👯 I’m looking to collaborate on **Development Mobile**
 
