@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Victor V. Pereira</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">Developer Backend</h3>
 
-- 🔭 I’m currently working on **Support Specialist**
+- 🌱 I’m currently learning **Deepening knowledge in Python and Node.js** 
 
-- 🌱 I’m currently learning **Dart / Flutter** / SQL
-
-- 👯 I’m looking to collaborate on **Development Mobile**
+- 👯 I’m looking to collaborate on **Software development**
 
 - 🤝 I’m looking for help with **Courses, books and documentation**
 
 - 📝 I regularly write articles in my book
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Development Backend**
 
 - 📫 How to reach me **vic.torpereira@hotmail.com**
 
