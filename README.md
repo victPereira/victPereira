@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor V. Pereira</h1>
-<h3 align="center">Phyton / Node.JS</h3>
+<h3 align="center">.NET / C# / Phyton / Node.JS</h3>
 
-- 🌱 I’m currently learning **Advanced python and node.js techniques**
+- 🌱 I’m currently learning **Advanced python and. NET techniques**
 
 - 👯 I’m looking to collaborate on **development software in backend**
 
 - 🤝 I’m looking for help with **Courses, books and documentation**
-
-- 👨‍💻 All of my projects are available at [://github.com/victPereira?tab=repositories](://github.com/victPereira?tab=repositories)
 
 - 📝 I regularly write articles on [my book](my book)
 
