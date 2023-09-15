@@ -7,10 +7,6 @@
 
 - 🤝 I’m looking for help with **Courses, books and documentation**
 
-- 📝 I regularly write articles on [my book](my book)
-
-- 💬 Ask me about **Phyton and Node.JS**
-
 - 📫 How to reach me **vic.torpereira@hotmail.com**
 
 - 📄 Know about my experiences [I'm looking for an opportunity to demonstrate my expertise in mobile development](I'm looking for an opportunity to demonstrate my expertise in mobile development)
