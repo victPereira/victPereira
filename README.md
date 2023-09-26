@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vic.torpereira@hotmail.com**
 
-- 📄 Know about my experiences [I'm looking for an opportunity to demonstrate my expertise in mobile development](I'm looking for an opportunity to demonstrate my expertise in mobile development)
+- 📄 I'm looking for an opportunity to work with Python or C#, I study daily and I'm willing to face new challenges.
 
 - ⚡ Fun fact **Sports**
 
